@@ -1,0 +1,95 @@
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 1
+Enter the task: student marks
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 2
+1. student marks - Not done
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 3
+1. student marks - Not done
+Enter the task number to remove: 1
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 4
+No tasks to show.
+Enter the task number to mark as done: 1
+Task not found!
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: marks list
+Invalid choice! Please choose a valid option.
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 4
+No tasks to show.
+Enter the task number to mark as done: 1
+Task not found!
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 1
+Enter the task: marks list
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 4
+1. marks list - Not done
+Enter the task number to mark as done: 1
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 2
+1. marks list - Done
+
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Mark Task as Done
+5. Exit
+Choose an option: 5
+Exiting To-Do List Application. Goodbye!
